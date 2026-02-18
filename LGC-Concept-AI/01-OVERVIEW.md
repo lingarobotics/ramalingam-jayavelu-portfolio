@@ -6,6 +6,15 @@ The system separates learning into intentional modes rather than treating all qu
 
 ---
 
+## Live System
+
+Experience the deployed system:
+
+🔗 https://concept-ai.lgcsystems.xyz
+
+The live version reflects the current documented architecture (v2.1.0).
+
+
 ## Problem Statement
 
 Most AI systems provide answers without distinguishing:
@@ -47,3 +56,11 @@ Each learning aspect is intentional and isolated.
 - Independent question processing
 
 This system prioritizes clarity over conversational illusion.
+
+---
+
+## Documentation Navigation
+
+- → [Architecture](02-ARCHITECTURE.md)
+- → [Design Decisions](03-DESIGN-DECISIONS.md)
+- → [Version Evolution](04-VERSION-EVOLUTION.md)
